@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri /Users/gia/projects/personal/hardware/micro_redox/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name Kailh_Choc)(type KiCad)(uri /Users/gia/projects/personal/hardware/micro_redox/MX_Alps_Hybrid/Kailh_Choc.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri /Users/gia/projects/personal/hardware/micro_redox/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri /Users/gia/projects/personal/hardware/micro_redox/keyswitches.pretty)(options "")(descr ""))
+)
