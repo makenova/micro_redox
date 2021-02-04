@@ -1,0 +1,572 @@
+EESchema Schematic File Version 4
+LIBS:microredox-cache
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L power:GND #PWR01
+U 1 1 60197F9C
+P 1750 3750
+F 0 "#PWR01" H 1750 3500 50  0001 C CNN
+F 1 "GND" H 1755 3577 50  0000 C CNN
+F 2 "" H 1750 3750 50  0001 C CNN
+F 3 "" H 1750 3750 50  0001 C CNN
+	1    1750 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX2
+U 1 1 6019987C
+P 1800 4250
+F 0 "MX2" H 1833 4473 60  0000 C CNN
+F 1 "MX-NoLED" H 1833 4399 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 1175 4225 60  0001 C CNN
+F 3 "" H 1175 4225 60  0001 C CNN
+	1    1800 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 60199886
+P 1750 4400
+F 0 "#PWR02" H 1750 4150 50  0001 C CNN
+F 1 "GND" H 1755 4227 50  0000 C CNN
+F 2 "" H 1750 4400 50  0001 C CNN
+F 3 "" H 1750 4400 50  0001 C CNN
+	1    1750 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX3
+U 1 1 6019BB5C
+P 1800 4900
+F 0 "MX3" H 1833 5123 60  0000 C CNN
+F 1 "MX-NoLED" H 1833 5049 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 1175 4875 60  0001 C CNN
+F 3 "" H 1175 4875 60  0001 C CNN
+	1    1800 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 6019BB66
+P 1750 5050
+F 0 "#PWR03" H 1750 4800 50  0001 C CNN
+F 1 "GND" H 1755 4877 50  0000 C CNN
+F 2 "" H 1750 5050 50  0001 C CNN
+F 3 "" H 1750 5050 50  0001 C CNN
+	1    1750 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX4
+U 1 1 601A20D2
+P 2300 3600
+F 0 "MX4" H 2333 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 2333 3749 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 1675 3575 60  0001 C CNN
+F 3 "" H 1675 3575 60  0001 C CNN
+	1    2300 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR04
+U 1 1 601A20DC
+P 2250 3750
+F 0 "#PWR04" H 2250 3500 50  0001 C CNN
+F 1 "GND" H 2255 3577 50  0000 C CNN
+F 2 "" H 2250 3750 50  0001 C CNN
+F 3 "" H 2250 3750 50  0001 C CNN
+	1    2250 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX5
+U 1 1 601A20E6
+P 2300 4250
+F 0 "MX5" H 2333 4473 60  0000 C CNN
+F 1 "MX-NoLED" H 2333 4399 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 1675 4225 60  0001 C CNN
+F 3 "" H 1675 4225 60  0001 C CNN
+	1    2300 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR05
+U 1 1 601A20F0
+P 2250 4400
+F 0 "#PWR05" H 2250 4150 50  0001 C CNN
+F 1 "GND" H 2255 4227 50  0000 C CNN
+F 2 "" H 2250 4400 50  0001 C CNN
+F 3 "" H 2250 4400 50  0001 C CNN
+	1    2250 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX6
+U 1 1 601A20FA
+P 2300 4900
+F 0 "MX6" H 2333 5123 60  0000 C CNN
+F 1 "MX-NoLED" H 2333 5049 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 1675 4875 60  0001 C CNN
+F 3 "" H 1675 4875 60  0001 C CNN
+	1    2300 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR06
+U 1 1 601A2104
+P 2250 5050
+F 0 "#PWR06" H 2250 4800 50  0001 C CNN
+F 1 "GND" H 2255 4877 50  0000 C CNN
+F 2 "" H 2250 5050 50  0001 C CNN
+F 3 "" H 2250 5050 50  0001 C CNN
+	1    2250 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX7
+U 1 1 601A5FAE
+P 2800 3600
+F 0 "MX7" H 2833 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 2833 3749 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 2175 3575 60  0001 C CNN
+F 3 "" H 2175 3575 60  0001 C CNN
+	1    2800 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR07
+U 1 1 601A5FB8
+P 2750 3750
+F 0 "#PWR07" H 2750 3500 50  0001 C CNN
+F 1 "GND" H 2755 3577 50  0000 C CNN
+F 2 "" H 2750 3750 50  0001 C CNN
+F 3 "" H 2750 3750 50  0001 C CNN
+	1    2750 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX8
+U 1 1 601A5FC2
+P 2800 4250
+F 0 "MX8" H 2833 4473 60  0000 C CNN
+F 1 "MX-NoLED" H 2833 4399 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 2175 4225 60  0001 C CNN
+F 3 "" H 2175 4225 60  0001 C CNN
+	1    2800 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR08
+U 1 1 601A5FCC
+P 2750 4400
+F 0 "#PWR08" H 2750 4150 50  0001 C CNN
+F 1 "GND" H 2755 4227 50  0000 C CNN
+F 2 "" H 2750 4400 50  0001 C CNN
+F 3 "" H 2750 4400 50  0001 C CNN
+	1    2750 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX9
+U 1 1 601A5FD6
+P 2800 4900
+F 0 "MX9" H 2833 5123 60  0000 C CNN
+F 1 "MX-NoLED" H 2833 5049 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 2175 4875 60  0001 C CNN
+F 3 "" H 2175 4875 60  0001 C CNN
+	1    2800 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR09
+U 1 1 601A5FE0
+P 2750 5050
+F 0 "#PWR09" H 2750 4800 50  0001 C CNN
+F 1 "GND" H 2755 4877 50  0000 C CNN
+F 2 "" H 2750 5050 50  0001 C CNN
+F 3 "" H 2750 5050 50  0001 C CNN
+	1    2750 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX10
+U 1 1 601A5FFE
+P 3300 3600
+F 0 "MX10" H 3333 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 3333 3749 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 2675 3575 60  0001 C CNN
+F 3 "" H 2675 3575 60  0001 C CNN
+	1    3300 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR010
+U 1 1 601A6008
+P 3250 3750
+F 0 "#PWR010" H 3250 3500 50  0001 C CNN
+F 1 "GND" H 3255 3577 50  0000 C CNN
+F 2 "" H 3250 3750 50  0001 C CNN
+F 3 "" H 3250 3750 50  0001 C CNN
+	1    3250 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX11
+U 1 1 601A6012
+P 3300 4250
+F 0 "MX11" H 3333 4473 60  0000 C CNN
+F 1 "MX-NoLED" H 3333 4399 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 2675 4225 60  0001 C CNN
+F 3 "" H 2675 4225 60  0001 C CNN
+	1    3300 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR011
+U 1 1 601A601C
+P 3250 4400
+F 0 "#PWR011" H 3250 4150 50  0001 C CNN
+F 1 "GND" H 3255 4227 50  0000 C CNN
+F 2 "" H 3250 4400 50  0001 C CNN
+F 3 "" H 3250 4400 50  0001 C CNN
+	1    3250 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX12
+U 1 1 601A6026
+P 3300 4900
+F 0 "MX12" H 3333 5123 60  0000 C CNN
+F 1 "MX-NoLED" H 3333 5049 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 2675 4875 60  0001 C CNN
+F 3 "" H 2675 4875 60  0001 C CNN
+	1    3300 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR012
+U 1 1 601A6030
+P 3250 5050
+F 0 "#PWR012" H 3250 4800 50  0001 C CNN
+F 1 "GND" H 3255 4877 50  0000 C CNN
+F 2 "" H 3250 5050 50  0001 C CNN
+F 3 "" H 3250 5050 50  0001 C CNN
+	1    3250 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX13
+U 1 1 601A603A
+P 3300 5550
+F 0 "MX13" H 3333 5773 60  0000 C CNN
+F 1 "MX-NoLED" H 3333 5699 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 2675 5525 60  0001 C CNN
+F 3 "" H 2675 5525 60  0001 C CNN
+	1    3300 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR013
+U 1 1 601A6044
+P 3250 5700
+F 0 "#PWR013" H 3250 5450 50  0001 C CNN
+F 1 "GND" H 3255 5527 50  0000 C CNN
+F 2 "" H 3250 5700 50  0001 C CNN
+F 3 "" H 3250 5700 50  0001 C CNN
+	1    3250 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX14
+U 1 1 601B9118
+P 3850 3600
+F 0 "MX14" H 3883 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 3883 3749 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 3225 3575 60  0001 C CNN
+F 3 "" H 3225 3575 60  0001 C CNN
+	1    3850 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR014
+U 1 1 601B9122
+P 3800 3750
+F 0 "#PWR014" H 3800 3500 50  0001 C CNN
+F 1 "GND" H 3805 3577 50  0000 C CNN
+F 2 "" H 3800 3750 50  0001 C CNN
+F 3 "" H 3800 3750 50  0001 C CNN
+	1    3800 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX15
+U 1 1 601B912C
+P 3850 4250
+F 0 "MX15" H 3883 4473 60  0000 C CNN
+F 1 "MX-NoLED" H 3883 4399 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 3225 4225 60  0001 C CNN
+F 3 "" H 3225 4225 60  0001 C CNN
+	1    3850 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR015
+U 1 1 601B9136
+P 3800 4400
+F 0 "#PWR015" H 3800 4150 50  0001 C CNN
+F 1 "GND" H 3805 4227 50  0000 C CNN
+F 2 "" H 3800 4400 50  0001 C CNN
+F 3 "" H 3800 4400 50  0001 C CNN
+	1    3800 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX16
+U 1 1 601B9140
+P 3850 4900
+F 0 "MX16" H 3883 5123 60  0000 C CNN
+F 1 "MX-NoLED" H 3883 5049 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 3225 4875 60  0001 C CNN
+F 3 "" H 3225 4875 60  0001 C CNN
+	1    3850 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR016
+U 1 1 601B914A
+P 3800 5050
+F 0 "#PWR016" H 3800 4800 50  0001 C CNN
+F 1 "GND" H 3805 4877 50  0000 C CNN
+F 2 "" H 3800 5050 50  0001 C CNN
+F 3 "" H 3800 5050 50  0001 C CNN
+	1    3800 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX17
+U 1 1 601B9154
+P 3850 5550
+F 0 "MX17" H 3883 5773 60  0000 C CNN
+F 1 "MX-NoLED" H 3883 5699 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 3225 5525 60  0001 C CNN
+F 3 "" H 3225 5525 60  0001 C CNN
+	1    3850 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR017
+U 1 1 601B915E
+P 3800 5700
+F 0 "#PWR017" H 3800 5450 50  0001 C CNN
+F 1 "GND" H 3805 5527 50  0000 C CNN
+F 2 "" H 3800 5700 50  0001 C CNN
+F 3 "" H 3800 5700 50  0001 C CNN
+	1    3800 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:ProMicro U1
+U 1 1 6016F938
+P 5750 4200
+F 0 "U1" H 5750 5037 60  0000 C CNN
+F 1 "ProMicro" H 5750 4931 60  0000 C CNN
+F 2 "kbd:ProMicro_v2-makenova-micro-redox" V 6800 1700 60  0001 C CNN
+F 3 "" V 6800 1700 60  0001 C CNN
+	1    5750 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:TRRS U2
+U 1 1 601577BF
+P 5800 5700
+F 0 "U2" H 6028 6003 60  0000 L CNN
+F 1 "TRRS" H 6028 5897 60  0000 L CNN
+F 2 "Keebio-Parts:TRRS-PJ-320A-no-Fmask-makenova-reversible" H 5950 5700 60  0001 C CNN
+F 3 "" H 5950 5700 60  0001 C CNN
+	1    5800 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR020
+U 1 1 6015AA90
+P 5450 5600
+F 0 "#PWR020" H 5450 5350 50  0001 C CNN
+F 1 "GND" H 5455 5427 50  0000 C CNN
+F 2 "" H 5450 5600 50  0001 C CNN
+F 3 "" H 5450 5600 50  0001 C CNN
+	1    5450 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR019
+U 1 1 6015E9BF
+P 5300 5500
+F 0 "#PWR019" H 5300 5350 50  0001 C CNN
+F 1 "+5V" V 5315 5628 50  0000 L CNN
+F 2 "" H 5300 5500 50  0001 C CNN
+F 3 "" H 5300 5500 50  0001 C CNN
+	1    5300 5500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR018
+U 1 1 6015FE85
+P 6650 3550
+F 0 "#PWR018" H 6650 3400 50  0001 C CNN
+F 1 "+5V" H 6665 3723 50  0000 C CNN
+F 2 "" H 6650 3550 50  0001 C CNN
+F 3 "" H 6650 3550 50  0001 C CNN
+	1    6650 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6650 3550 6650 3950
+Wire Wire Line
+	6650 3950 6450 3950
+Text GLabel 5300 5400 0    50   Input ~ 0
+DATA0
+Text GLabel 5050 3750 0    50   Input ~ 0
+DATA0
+$Comp
+L Switch:SW_SPST SW1
+U 1 1 6019CDE9
+P 7000 3850
+F 0 "SW1" H 7000 4085 50  0000 C CNN
+F 1 "SW_SPST" H 7000 3994 50  0000 C CNN
+F 2 "random-keyboard-parts:SKQG-1155865-makenova-reversible" H 7000 3850 50  0001 C CNN
+F 3 "~" H 7000 3850 50  0001 C CNN
+	1    7000 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6800 3850 6450 3850
+$Comp
+L power:GND #PWR021
+U 1 1 6019F7F2
+P 7300 3850
+F 0 "#PWR021" H 7300 3600 50  0001 C CNN
+F 1 "GND" H 7305 3677 50  0000 C CNN
+F 2 "" H 7300 3850 50  0001 C CNN
+F 3 "" H 7300 3850 50  0001 C CNN
+	1    7300 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7300 3850 7200 3850
+Wire Wire Line
+	6450 3750 7300 3750
+Wire Wire Line
+	7300 3750 7300 3850
+Connection ~ 7300 3850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX1
+U 1 1 6014B461
+P 1800 3600
+F 0 "MX1" H 1833 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 1833 3749 20  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_optional_reversible" H 1175 3575 60  0001 C CNN
+F 3 "" H 1175 3575 60  0001 C CNN
+	1    1800 3600
+	1    0    0    -1  
+$EndComp
+Text GLabel 3450 5500 2    50   Input ~ 0
+S13
+Text GLabel 3450 4850 2    50   Input ~ 0
+S12
+Text GLabel 3450 4200 2    50   Input ~ 0
+S11
+Text GLabel 3450 3550 2    50   Input ~ 0
+S10
+Text GLabel 4000 3550 2    50   Input ~ 0
+S14
+Text GLabel 4000 4200 2    50   Input ~ 0
+S15
+Text GLabel 4000 4850 2    50   Input ~ 0
+S16
+Text GLabel 4000 5500 2    50   Input ~ 0
+S17
+Text GLabel 2950 4850 2    50   Input ~ 0
+S9
+Text GLabel 2950 4200 2    50   Input ~ 0
+S8
+Text GLabel 2950 3550 2    50   Input ~ 0
+S7
+Text GLabel 2450 4850 2    50   Input ~ 0
+S6
+Text GLabel 2450 4200 2    50   Input ~ 0
+S5
+Text GLabel 2450 3550 2    50   Input ~ 0
+S4
+Text GLabel 1950 4850 2    50   Input ~ 0
+S3
+Text GLabel 1950 4200 2    50   Input ~ 0
+S2
+Text GLabel 1950 3550 2    50   Input ~ 0
+S1
+Text GLabel 6450 4550 2    50   Input ~ 0
+S12
+Text GLabel 5050 4450 0    50   Input ~ 0
+S11
+Text GLabel 6450 4450 2    50   Input ~ 0
+S10
+Text GLabel 5050 4250 0    50   Input ~ 0
+S7
+Text GLabel 6450 4250 2    50   Input ~ 0
+S6
+Text GLabel 5050 4150 0    50   Input ~ 0
+S5
+Text GLabel 6450 4150 2    50   Input ~ 0
+S4
+Text GLabel 5050 4050 0    50   Input ~ 0
+S1
+Text GLabel 6450 4050 2    50   Input ~ 0
+S2
+Text GLabel 5050 3650 0    50   Input ~ 0
+S3
+Text GLabel 6450 4350 2    50   Input ~ 0
+S8
+Text GLabel 5050 4350 0    50   Input ~ 0
+S9
+Wire Wire Line
+	5450 5400 5300 5400
+Wire Wire Line
+	5300 5500 5450 5500
+Wire Wire Line
+	5450 5300 5400 5300
+Wire Wire Line
+	5400 5300 5400 5600
+Wire Wire Line
+	5400 5600 5450 5600
+Connection ~ 5450 5600
+Wire Bus Line
+	1450 3150 4350 3150
+Wire Bus Line
+	4350 3150 4350 6050
+Wire Bus Line
+	4350 6050 1450 6050
+Wire Bus Line
+	1450 6050 1450 3150
+Text GLabel 6450 4750 2    50   Input ~ 0
+S17
+Text GLabel 5050 4650 0    50   Input ~ 0
+S16
+Text GLabel 6450 4650 2    50   Input ~ 0
+S15
+Text GLabel 5050 4550 0    50   Input ~ 0
+S14
+Text GLabel 5050 4750 0    50   Input ~ 0
+S13
+$EndSCHEMATC

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name keyswitches)(type KiCad)(uri /Users/gia/projects/personal/hardware/micro_redox/keyswitches.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri /Users/gia/projects/personal/hardware/micro_redox/Keebio-Parts.pretty)(options "")(descr ""))
+)

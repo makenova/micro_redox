@@ -3,4 +3,5 @@
   (lib (name Kailh_Choc)(type KiCad)(uri /Users/gia/projects/personal/hardware/micro_redox/MX_Alps_Hybrid/Kailh_Choc.pretty)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type KiCad)(uri /Users/gia/projects/personal/hardware/micro_redox/random-keyboard-parts.pretty)(options "")(descr ""))
   (lib (name keyswitches)(type KiCad)(uri /Users/gia/projects/personal/hardware/micro_redox/keyswitches.pretty)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri /Users/gia/projects/personal/hardware/micro_redox/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
 )
