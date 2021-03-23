@@ -1,7 +1,14 @@
 # micro_redox_split
 ![layers](./docs/layers.png "layers")
 
-A diodeless, pro-micro, reversible pcb, choc spaced, semi split, 34 key keyboard.  
+### Features
+
+- diodeless
+- reversible pcb
+- reversible mcu
+- choc spaced
+- hot-swap or soldered
+
 There are production files in the "gerbers" directory for the pcb and a skeleton case.
 Just upload the zip files to your PCB manufacturer of choice.
 
@@ -11,6 +18,7 @@ You'll also need
  * I prefer something with USB C
  * You can use a nice!nano if you want to make it wireless
 * Headers for the PM
+  * search for `Round Female Socket Pin Header`
 * TRRS jack
 * choc hot-swap sockets(optional)
 * reset switch (optional)

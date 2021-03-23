@@ -1,7 +1,15 @@
 # micro_redox_semi_split
 ![layers](./docs/layers.png "layers")
 
-A usb-c, integrated mcu, semi split, 34 key keyboard with a rotary encoder.  There are production files in the "gerbers" directory for the pcb and a skeleton case.
+### Features
+
+- USB C
+- integrated mcu
+- rotary encoder
+- choc spaced
+- hot-swap or soldered
+
+There are production files in the "gerbers" directory for the pcb and a skeleton case.
 Simply upload the zip files to your PCB manufacturer of choice.
 
 If you do not get this assembled by a factory you can find an interactive BOM in `bom` directory.
